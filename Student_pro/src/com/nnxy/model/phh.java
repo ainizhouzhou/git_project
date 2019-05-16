@@ -2,8 +2,8 @@ package com.nnxy.model;
 
 public class phh {
    
-	private int id;
-	private String username;
+	private int id;//唯一id
+	private String username;//用户名
 	private String password;
 	private int sex;
 	private String love;
